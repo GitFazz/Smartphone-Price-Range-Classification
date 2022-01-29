@@ -18,6 +18,8 @@ The dataset we will use to train our classification model is collected from a po
 
 The website link - [www.mobiledokan.com](https://www.mobiledokan.com/all-brands/)
 
+This script is used to scrape necessary data from the website - https://github.com/SakibAbrar/MobileDokanScraper
+
 Our dataset roughly contains 500 rows. Each row contains all basic and special features of an smartphone. Few of the features we consider are the followings - 1. Brand name, 2. Release Data 3. RAM 4. ROM 5. Network 6. WLAN version, 7. Bluetooth version 8. Display refresh rate, 9. Display protection 10. Chipset 11. Battery capacity 12. Number of sensors etc.
 
 ### Tentative algorithms for classification
