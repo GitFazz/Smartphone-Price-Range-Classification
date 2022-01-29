@@ -1,0 +1,80 @@
+Name                  494
+Brand                  14
+Link                  494
+Official ✭            408
+First Release         181
+Colors                430
+Network                 8
+SIM                    26
+WLAN                   20
+Bluetooth              43
+GPS                    30
+Radio                  22
+USB                     8
+OTG                     6
+USB Type-C              5
+NFC                    10
+Style                  29
+Material               89
+Water Resistance       31
+Dimensions            394
+Weight                138
+Size                   70
+Resolution             40
+Technology             32
+Protection             24
+Features               29
+Video Recording        33
+Type and Capacity     143
+Fast Charging          98
+Reverse Charge          5
+Operating System      158
+Chipset               159
+RAM                    30
+Processor              84
+GPU                    86
+ROM                    72
+MicroSD Slot           34
+3.5mm Jack              2
+Fingerprint            11
+Face Unlock             5
+Notification Light     10
+Sensors                74
+More Features          10
+Manufactured by        15
+Made in                 4
+Sar Value               4
+Cover Display           4
+Cover Camera            1
+Wireless Charging       5
+Reverse Charging       11
+More                   10
+Back                   11
+Front                   2
+Stand-by               13
+Talk-time              12
+SMS                     1
+MMS                     3
+Loudspeaker             2
+Audio Format            8
+Video Format            6
+Flashlight              2
+Phonebook               1
+Call Records            1
+Internet                7
+CPU                     4
+Java                    3
+Games                   2
+Video Playback          4
+External Slot          10
+Color                   1
+Infrared                1
+Others                  4
+Variant                 3
+Version                 2
+Other Features          3
+Special Features        1
+Special Feature         1
+First Release:         20
+OS                      1
+dtype: int64
